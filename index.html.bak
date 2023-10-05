@@ -24,21 +24,16 @@
     font-family: 'Bartex';
     font-style: normal;
     font-weight: normal;
-    src:  url('Bartex.woff') format('woff');
+    src:  url('bartex.woff') format('woff');
   
 }
       @font-face {
     font-family: 'coco';
     font-style: normal;
     font-weight: normal;
-    src:  url('Cocogoose.woff') format('woff');
+    src:  url('cocogoose.woff') format('woff');
   }
-      @font-face {
-    font-family: 'mermaid';
-    font-style: normal;
-    font-weight: normal;
-    src:  url('Mermaid.woff') format('woff');
-      }
+  
       
  
     </style>
@@ -63,14 +58,14 @@
                 target="_self">Welcome</a> </li>
             <li class="nav-item" style="text-align: center;"> <a class="nav-link mynav"
 
-                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/Project/webpage/resume_webpage/index.html"
+                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/project/webpage/resume_webpage/index01.html"
 
                 target="_self">Profile</a> </li>
             <li class="nav-item" style="text-align: center;"> <a class="nav-link mynav"
 
                 style="font-family:'coco';color: white; font-size:18px;" href="https://www.youtube.com/channel/UCH9co1C4-7WVDj-B_G-uvDw"
 
-                target="_self">Youtibe</a> </li>
+                target="_self">Youtube</a> </li>
           </ul>
         </div>
       </div>
@@ -88,7 +83,7 @@
           <h3 style="font-family: 'Bartex'; color:white ;font-size:35px;text-shadow:4px 4px 0px #e0218a, 7px 7px 0px #e0218a; ">Welcome
             to my world</h3>
         </div>
-        <div class="col-md-4 col-sm-12" style="text-align: center;"> <a href="webpage/resume_webpage/index"
+        <div class="col-md-4 col-sm-12" style="text-align: center;"> <a href="webpage/resume_webpage/index01.html"
 
             target="_parent"><button class="button button1" style="text-align: center;font-family: 'Bartex';">View
               My Resume!</button></a> </div>
@@ -100,6 +95,5 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
-    
   </body>
 </html>
