@@ -1,0 +1,118 @@
+.mybd {
+  border-style: solid;
+  border-color: #FF10F0;
+}
+
+body {
+background-color : #55acd8;
+
+}
+
+
+.custom-navbar {
+    background-color: #E0218a;
+  }
+
+.mydrop{
+   background-color: #E0218a;
+    color: white;
+    font-weight: bold;
+}
+
+.mynav{
+ color: white;
+    font-weight: bold;
+
+
+}
+
+.button {
+  background-color:  #E0218a; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: #E0218a;
+  border: 2px solid  #E0218a;
+}
+
+.button1:hover {
+  background-color:  #E0218a;
+  color: white;
+}
+h3{
+   margin: 40px auto;
+  font-family: 'Bartex', Bartex;
+  font-size: 70px;
+
+ color: white;
+  text-shadow:
+    0 1px 0px #e0218a,
+    1px 0 0px #e0218a,
+    1px 2px 1px #e0218a,
+    2px 1px 1px #e0218a,
+    2px 3px 2px #e0218a,
+    3px 2px 2px #e0218a,
+    3px 4px 2px #e0218a,
+    4px 3px 3px #e0218a
+    
+   ;
+    }
+.banner_card{
+position: relative
+}
+.banner_text{
+position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ .ex{
+       font-family: 'coco';
+      color:white;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+   font-size:16px;}
+    .bb{
+      font-family: 'Poppins', sans-serif;
+      color:white;
+      font-size:16px;}
+.one {
+  border-style: solid;
+  border-color: white;
+  margin:10px;
+}
+h6{
+   margin: 40px auto;
+  font-family: 'Bartex', Bartex;
+  font-size: 70px;
+
+ color: white;
+  text-shadow:
+    0 1px 0px #e0218a,
+    1px 0 0px #e0218a,
+    1px 2px 1px #e0218a,
+    2px 1px 1px #e0218a,
+    2px 3px 2px #e0218a,
+    3px 2px 2px #e0218a,
+    3px 4px 2px #e0218a,
+    4px 3px 3px #e0218a
+    
+   ;
+    }
+.pics{
+  width :100px;
+  height : 1500px;
+  
+  
+  
+}
