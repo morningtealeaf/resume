@@ -113,6 +113,9 @@ h6{
   width :100px;
   height : 1500px;
   
-  
-  
+}
+
+.mysub {
+  width: 100%;
+  height: auto;
 }
