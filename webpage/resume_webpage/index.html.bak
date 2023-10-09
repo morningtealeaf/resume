@@ -176,22 +176,19 @@
           <div class="row">
             <div class="col-md-3" style="text-align: center;"> <img alt="figma"
 
-                src="images/1C430C2E-1694-4162-A563-A35BBA120842.png" class="img-fluid"
-
-                style="width:90px;height:90px;"> </div>
-            <div class="col-md-3" style="text-align: center;"> <img alt="ps" src="images/1FCFB3C2-1352-4246-AD44-B498EC89FFFF.png"
+                src="images/figma.png" class="img-fluid" style="width:90px;height:90px;">
+            </div>
+            <div class="col-md-3" style="text-align: center;"> <img alt="ps" src="images/psd.png"
 
                 class="img-fluid" style="width:90px;height:90px;"> </div>
             <div class="col-md-3" style="text-align: center;"> <img alt="procreate"
 
-                src="images/B78B7D0C-120C-405E-834D-DDF9FB1D84D8.png" class="img-fluid"
-
-                style="width:90px;height:90px;"> </div>
+                src="images/procreate.png" class="img-fluid" style="width:90px;height:90px;">
+            </div>
             <div class="col-md-3" style="text-align: center;"> <img alt="aegisub"
 
-                src="images/FB055D20-3C01-4188-9514-A68467371F11.png" class="img-fluid"
-
-                style="width:90px;height:90px;"> </div>
+                src="images/aegi.png" class="img-fluid" style="width:90px;height:90px;">
+            </div>
           </div>
           <div class="row">
             <div class="col-md-12">
@@ -210,27 +207,27 @@
       </div>
       <div class="row">
         <div class="col-md-3">
-          <div style="text-align: center;"><img alt="th" src="images/IMG_4885.PNG"
+          <div style="text-align: center;"><img alt="th" src="images/th.PNG" class="img-fluid"
 
-              class="img-fluid" style="width:150px;height:150px;"></div>
+              style="width:150px;height:150px;"></div>
           <p style="text-align: center;"> Thai : Native </p>
         </div>
         <div class="col-md-3">
-          <div style="text-align: center;"><img alt="eng" src="images/IMG_4888.PNG"
+          <div style="text-align: center;"><img alt="eng" src="images/eng.PNG" class="img-fluid"
 
-              class="img-fluid" style="width:150px;height:150px;"></div>
+              style="width:150px;height:150px;"></div>
           <p style="text-align: center;">English : Oxford TEST </p>
         </div>
         <div class="col-md-3">
-          <div style="text-align: center;"><img alt="kor" src="images/IMG_4887.PNG"
+          <div style="text-align: center;"><img alt="kor" src="images/kor.PNG" class="img-fluid"
 
-              class="img-fluid" style="width:150px;height:150px;"></div>
+              style="width:150px;height:150px;"></div>
           <p style="text-align: center;"> Korean : TOPIK II </p>
         </div>
         <div class="col-md-3">
-          <div style="text-align: center;"><img alt="spn" src="images/IMG_4886.PNG"
+          <div style="text-align: center;"><img alt="spn" src="images/spn.PNG" class="img-fluid"
 
-              class="img-fluid" style="width:150px;height:150px;"></div>
+              style="width:150px;height:150px;"></div>
           <p style="text-align: center;">Spanish : Beginner </p>
         </div>
       </div>
@@ -267,7 +264,7 @@
         <div class="col-md-12"> </div>
         <h3 class="text-center" style="text-align: left;"> <a name="myartwork"
 
-            id="myartwork"></a>Artwork </h3>
+            id="myartwork"></a>Artworks </h3>
         <div id="carouselExampleIndicators" class="carousel slide mx-auto d-md-block">
           <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
 
@@ -278,14 +275,14 @@
 
               data-bs-slide-to="2" aria-label="Slide 3"></button> </div>
           <div class="carousel-inner">
-            <div class="carousel-item active" style="text-align: center;"> <img
+            <div class="carousel-item active" style="text-align: center;">
+              <img src="images/qilin.JPG" class="d-block w-100 img-fluid "
 
-                src="images/qilin.jpg" class="d-block w-100 img-fluid " alt="art1">
-            </div>
-            <div class="carousel-item" style="text-align: center;"> <img src="images/albedo.jpg"
+                alt="art1"> </div>
+            <div class="carousel-item" style="text-align: center;"> <img src="images/albedo.JPG"
 
                 class="d-block w-100 img-fluid" alt="art2"> </div>
-            <div class="carousel-item" style="text-align: center;"> <img src="images/melody.png"
+            <div class="carousel-item" style="text-align: center;"> <img src="images/melody.PNG"
 
                 class="d-block w-100 img-fluid" alt="art3"> </div>
           </div>
@@ -308,21 +305,21 @@
       </div>
       <div class="row">
         <div class="col-md-4"></div>
-        <div class="col-md-4 text-center"> <img alt="spotify" src="images/IMG_4825.PNG"
+        <div class="col-md-4 text-center"> <img alt="spotify" src="images/omg.PNG"
 
             class="img-fluid" style="max-width: 100%;"> </div>
         <div class="col-md-4"></div>
       </div>
       <div class="row">
         <div class="col-md-4"></div>
-        <div class="col-md-4 text-center"> <img alt="spotify" src="images/IMG_4824.PNG"
+        <div class="col-md-4 text-center"> <img alt="spotify" src="images/april.PNG"
 
             class="img-fluid" style="max-width: 100%;"> </div>
         <div class="col-md-4"></div>
       </div>
       <div class="row">
         <div class="col-md-4"></div>
-        <div class="col-md-4 text-center"> <img alt="spotify" src="images/IMG_4826.PNG"
+        <div class="col-md-4 text-center"> <img alt="spotify" src="images/wave.PNG"
 
             class="img-fluid" style="max-width: 100%;"> </div>
         <div class="col-md-4"></div>
