@@ -10,32 +10,38 @@
 
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/style.css">
-     
-    
-     <style>
+  </head>
+  <body>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <style>
     
 @font-face {
     font-family: 'Bartex';
     font-style: normal;
     font-weight: normal;
-    src:  url('bartex.woff') format('woff');
+    src:  url('Bartex.woff') format('woff');
   
 }
       @font-face {
     font-family: 'coco';
     font-style: normal;
     font-weight: normal;
-    src:  url('cocogoose.woff') format('woff');
+    src:  url('Cocogoose.woff') format('woff');
   }
-  
+      @font-face {
+    font-family: 'mermaid';
+    font-style: normal;
+    font-weight: normal;
+    src:  url('Mermaid.woff') format('woff');
+      }
       
  
     </style>
-  </head>
-  <body> 
-   
-
-     <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light custom-navbar">
       <div class="container"> <a class="navbar-brand" style="font-family: 'Bartex'; color: white; font-size: 30px;"
 
@@ -52,24 +58,24 @@
           <ul class="navbar-nav nav-underline">
             <li class="nav-item" style="text-align: center;"> <a class="nav-link mynav"
 
-                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/Project/index.html"
+                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/Project/index02.html"
 
                 target="_self">Welcome</a> </li>
             <li class="nav-item" style="text-align: center;"> <a class="nav-link mynav"
 
-                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/project/webpage/resume_webpage/index.html"
+                style="font-family:'coco';color: white; font-size:18px;" href="file:///D:/Project/webpage/resume_webpage/index.html"
 
                 target="_self">Profile</a> </li>
             <li class="nav-item" style="text-align: center;"> <a class="nav-link mynav"
 
                 style="font-family:'coco';color: white; font-size:18px;" href="https://www.youtube.com/channel/UCH9co1C4-7WVDj-B_G-uvDw"
 
-                target="_self">Youtube</a> </li>
+                target="_self">Youtibe</a> </li>
           </ul>
         </div>
       </div>
     </nav>
-    
+    <div class="container">
       <div class="row">
         <div class="col-md-12" style="text-align: center;"> <img alt="hello" class="img-fluid"
 
@@ -82,7 +88,7 @@
           <h3 style="font-family: 'Bartex'; color:white ;font-size:35px;text-shadow:4px 4px 0px #e0218a, 7px 7px 0px #e0218a; ">Welcome
             to my world</h3>
         </div>
-        <div class="col-md-4 col-sm-12" style="text-align: center;"> <a href="webpage/resume_webpage/index.html"
+        <div class="col-md-4 col-sm-12" style="text-align: center;"> <a href="webpage/resume_webpage/index"
 
             target="_parent"><button class="button button1" style="text-align: center;font-family: 'Bartex';">View
               My Resume!</button></a> </div>
@@ -94,5 +100,6 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
+    
   </body>
 </html>
